@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Edward Viaene",
+  "author": "Ramesh",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2"

@@ -1,7 +1,7 @@
 Source: node-demo-app
 Section: unknown
 Priority: optional
-Maintainer: Edward Viaene <ward@in4it.io>
+Maintainer: Ramesh <cfmx08@yahoo.com>
 Standards-Version: 0.0.1
 
 Package: node-demo-app
